@@ -11,7 +11,7 @@ This project was created as an educational example for database interaction usin
 - Managing data (CRUD operations)
 - Relating entities (e.g. assigning minions to villains)
 
-#Technologies Used
+Technologies Used
 
 - C#
 - .NET Framework
